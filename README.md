@@ -45,5 +45,5 @@ Je kunt deze tools gebruiken voor:
 - Source code reconnaissance
 
 > 📌 **Bron**: 
-Samengesteld op basis van een post in de LinkedIn-groep *Cyber Threat Intelligence*.
+Samengesteld op basis van de *Cyber Threat Intelligence* LinkeIn post.
 
