@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Search Engines
+# 🛡️ Cybersecurity Zoekmachines
 Een overzicht van 30 gespecialiseerde zoekmachines en intelligence-platforms die gebruikt worden in cybersecurity, threat hunting, OSINT en vulnerability research.
 
 ## 🔍 Zoekmachines & Tools
