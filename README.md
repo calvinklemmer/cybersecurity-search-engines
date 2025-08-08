@@ -44,3 +44,6 @@ Je kunt deze tools gebruiken voor:
 - Credential leak analysis
 - Source code reconnaissance
 
+> 📌 **Bron**: 
+Samengesteld op basis van een post in de LinkedIn-groep *Cyber Threat Intelligence*.
+
